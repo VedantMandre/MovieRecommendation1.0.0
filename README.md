@@ -1,7 +1,8 @@
 # MovieRecommendation1.0.0
 
 
-<h1> Vedant Mandre</h1>
+
+<h1>🔒 🗻 📊🎯🔬 Vedant Mandre</h1>
 <br /> 
 
                     
@@ -37,7 +38,10 @@ I have also completed several certifications in data analytics, including R Libr
 
 <h2>Languages and Tools</h2> 
 <p align="left">
-<img width="280px"  src="https://skillicons.dev/icons?i=&perline=9"  />
+<img width="280px"  src="https://skillicons.dev/icons?i=Python
+R
+SQL
+&perline=9"  />
 </p>
 <br />
 
@@ -71,8 +75,8 @@ I have also completed several certifications in data analytics, including R Libr
 
 <h2>My Latest Project</h2> 
 <br />
-<p><a href="https://github.com/VedantMandre/#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VedantMandre&repo=&theme=nightowl&show_owner=true#gh-dark-mode-only"/></a></p>
-<p><a href="https://github.com/VedantMandre/#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VedantMandre&repo=&theme=vue&show_owner=true#gh-light-mode-only"/></a></p>
+<p><a href="https://github.com/VedantMandre/Youtube_Scrapping, Video_Games_Sales, MovieMatch_Recommender, British_Airways_VirtualProgram #gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VedantMandre&repo=Youtube_Scrapping, Video_Games_Sales, MovieMatch_Recommender, British_Airways_VirtualProgram &theme=nightowl&show_owner=true#gh-dark-mode-only"/></a></p>
+<p><a href="https://github.com/VedantMandre/Youtube_Scrapping, Video_Games_Sales, MovieMatch_Recommender, British_Airways_VirtualProgram #gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VedantMandre&repo=Youtube_Scrapping, Video_Games_Sales, MovieMatch_Recommender, British_Airways_VirtualProgram &theme=vue&show_owner=true#gh-light-mode-only"/></a></p>
 <br />
 
 
@@ -82,5 +86,5 @@ I have also completed several certifications in data analytics, including R Libr
 <p align="left">
 <a href="https://twitter.com/" target="_blank"><img align="left" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="" /></a>
 <a href="https://instagram.com/" target="_blank"><img align="left" width="30px" style="padding-right:10px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" /></a>
-<a href="www.linkedin.com/in/vedantmandre" target="_blank"><img align="left" alt="linkedin" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+<a href="https://www.linkedin.com/in/vedant-mandre-a740b7b7/" target="_blank"><img align="left" alt="linkedin" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
 </p>
